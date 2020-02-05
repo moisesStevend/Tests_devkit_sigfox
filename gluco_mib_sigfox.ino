@@ -1,5 +1,6 @@
+int leds_battery[6]={2,3,4,5,6,7};
+
 void setup() {
-  // put your setup code here, to run once:
 
 }
 
