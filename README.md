@@ -29,4 +29,8 @@ _Objetivos específicos:_
 
 _Se recolectarán las necesidades utilizando métodos cualitativos mediante grupos focales. Luego del desarrollo de la aplicación se evaluará la usabilidad y la factibilidad del sistema de monitoreo remoto de glucosa_
 
+### Parte Técnologica 🔧
+_Usaremos un esp32 para obtener la data de glucosa y lo enviaremos a una RaspberryPI que hará la función de servidor, ademas mostarar un web donde se podra generar reportes de glucosa durante el día_
+
 ![Diagram](diagrama_global.jpg)
+![Web](web.png)
