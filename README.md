@@ -34,3 +34,5 @@ _Usaremos un esp32 para obtener la data de glucosa y lo enviaremos a una Raspber
 
 ![Diagram](diagrama_global.jpg)
 ![Web](web.png)
+![Server](85259551_212431319911237_5463198503591215104_n.jpg)
+![Raspberry](85202334_2466703376930319_1952611747600793600_n.jpg)
