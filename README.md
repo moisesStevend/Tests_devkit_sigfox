@@ -1,4 +1,4 @@
-# GLUCO-MIB: DESARROLLO Y EVALUACIÓN DE LA USABILIDAD Y FACTIBILIDAD DE UN SISTEMA DE INTERNET DE LAS COSAS PARA EL MONITOREO DE GLICEMIA EN PACIENTES HOSPITALIZADOS CON DIABETES MELLITUS TIPO 2 
+## GLUCO-MIB: DESARROLLO Y EVALUACIÓN DE LA USABILIDAD Y FACTIBILIDAD DE UN SISTEMA DE INTERNET DE LAS COSAS PARA EL MONITOREO DE GLICEMIA EN PACIENTES HOSPITALIZADOS CON DIABETES MELLITUS TIPO 2 
 
 _La diabetes mellitus (DM) es una enfermedad crónica que se caracteriza principalmente por los altos niveles de glucosa en sangre. La prevalencia de DM se incremento de 4.7% en 1980 a 8.5% en 2014 a nivel global.
 Los problemas cardiovasculares, las infecciones y la hiperglicemia son causas de hospitalización de diabéticos, siendo las infecciones las principales causas de mortalidad en los hospitales públicos peruanos.
